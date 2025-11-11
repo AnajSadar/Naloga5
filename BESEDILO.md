@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+HEAD
+HEAD
 # Uvod v Git
 
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
@@ -6,6 +7,42 @@ Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode 
 Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme.
 
 !!!To je edited odstavek v veji B_Anaj!!!
+
+
+## Glavne značilnosti
+
+- **Zgodovina sprememb**: vsak commit predstavlja točko v zgodovini projekta.  
+- **Veje**: omogočajo razvoj različnih funkcionalnosti vzporedno.  
+- **Skladnost (merge)**: Git zna združiti spremembe različnih razvijalcev.  
+- **Razpršenost**: vsak razvijalec ima popolno kopijo repozitorija.  
+- **Zanesljivost**: Git zagotavlja integriteto podatkov s preverjanjem hash vrednosti (SHA-1).
+
+## Pogosti ukazi
+
+| Ukaz | Namen |
+|------|--------|
+| `git init` | Ustvari nov lokalni repozitorij |
+| `git clone <url>` | Klonira obstoječi repozitorij |
+| `git status` | Prikaže stanje sprememb |
+| `git add <datoteka>` | Doda datoteko v pripravo za commit |
+| `git commit -m "Opis spremembe"` | Zabeleži spremembe |
+| `git push` | Pošlje spremembe v oddaljeni repozitorij |
+| `git pull` | Povleče nove spremembe z oddaljenega repozitorija |
+| `git branch` | Prikaže ali ustvari nove veje |
+| `git merge <veja>` | Združi določeno vejo z trenutno |
+| `git log` | Prikaže zgodovino commitov |
+
+
+
+ HEAD
+# Uvod v Git
+S
+Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
+Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra.  
+Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme.
+
+Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
+S tem se zmanjša možnost konfliktov in izgube podatkov. (Spreminjam drugi odstavek - sklop C)
 
 
 ## Glavne značilnosti
@@ -34,12 +71,17 @@ Od takrat se je Git razširil in postal **standard** v svetu razvoja programske 
 
 
 
-=======
+
+C_Žan
 # Uvod v Git
 
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
 Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra.  
+ HEAD
 Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme. Je zelo uporabna programska oprema saj nam omogoča boljše spoznavanje osnov računalnika. To je sedaj druga sprememba.
+
+Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme. Je zelo uporabna programska oprema saj nam omogoča boljše spoznavanje osnov računalnika. To je sedaj druga sprememba. To je tretja sprememba datoteke.
+ C_Žan
 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
 S tem se zmanjša možnost konfliktov in izgube podatkov.
@@ -71,4 +113,8 @@ S tem se zmanjša možnost konfliktov in izgube podatkov.
 
 
 
->>>>>>> 36f7933c7d38a1dc9e9d37c5e1802be05a969b84
+ HEAD
+ 36f7933c7d38a1dc9e9d37c5e1802be05a969b84
+
+ 4d88068 (Sprememba tretjega odstavka)
+ C_Žan
