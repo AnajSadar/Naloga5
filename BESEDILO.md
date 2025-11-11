@@ -2,9 +2,11 @@
 
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
 Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra.  
-Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme.
+Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme.!!!TO JE SPREMEMBA IZ VEJE B_ANAJ!!!
 
-!!!To je edited odstavek v veji B_Anaj!!!
+Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
+
+S tem se zmanjša možnost konfliktov in izgube podatkov.
 
 
 ## Glavne značilnosti
