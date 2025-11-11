@@ -4,7 +4,7 @@ HEAD
 
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
 Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra.  
-<<<<<<< HEAD
+
 Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme.
 
 !!!To je edited odstavek v veji B_Anaj!!!
@@ -41,6 +41,7 @@ S
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
 Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra.  
 Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme.
+Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme. Je zelo uporabna programska oprema saj nam omogoča boljše spoznavanje osnov računalnika. To je sedaj druga sprememba. To je tretja sprememba datoteke.
 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
 S tem se zmanjša možnost konfliktov in izgube podatkov. (Spreminjam drugi odstavek - sklop C)
@@ -115,8 +116,3 @@ S tem se zmanjša možnost konf
 
 
 
- HEAD
- 36f7933c7d38a1dc9e9d37c5e1802be05a969b84
-
- 4d88068 (Sprememba tretjega odstavka)
- C_Žan
